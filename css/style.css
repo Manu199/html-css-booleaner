@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 header{
-  height: 200px;
   background-image: url(../img/pattern.png);
   background-repeat: repeat;
   background-color: rgb( 78, 160,255);
